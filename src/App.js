@@ -82,7 +82,7 @@ function App() {
               <p>{note.description}</p>
               <button onClick={() => deleteNote(note) }>Delete Note</button>
               {
-                 console.log(note) 
+                /* console.log(note)  */
               }
               
             </div>
